@@ -1,6 +1,6 @@
 Important links for reading material :
 1. Why momentum of the optimizer is important : https://distill.pub/2017/momentum/
-2. This interactive paper demonstrates the checkerboard pattern problem and how they are not exclusive to GANs, but any neural network that employs them - https://distill.pub/2016/deconv-checkerboard/
+2. This paper explains about checkerboard pattern problem and how they are not exclusive to GANs, but can occur in any neural network that employs them - https://distill.pub/2016/deconv-checkerboard/
 3. pytorch DCGAN tutorial - https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html 
 
 Important papers related to GANs : 
